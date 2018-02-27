@@ -19,8 +19,9 @@ This tutorial introduce severval basic but fundamental operations of MySQL in Py
      -(Optional,but recoommended)Initiate a configuration file named 'Config.ini' so as to get access to your database more quickly without typing account info everytime you'd like to access it. Details on this will be elaborated latter.
 
 * **Basic operations**  
-    - [`Connect to the database`]() : get connected to your database server. ONLY WHEN YOU HAVE ESTABLISHED A DATABASE.  
-    - [`build database`]() : 
+    * [`Connect to the database`]() : get connected to your database server. ONLY WHEN YOU HAVE ESTABLISHED A DATABASE.  
+    * [`build database`]() : 
+    * [`build database`]() : 
     
     
     
