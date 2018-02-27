@@ -22,7 +22,7 @@ This tutorial introduce severval basic but fundamental operations of MySQL in Py
     * [`Connect to the database`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/connected.py) : get connected to your database server. ONLY WHEN YOU HAVE ESTABLISHED A DATABASE.  
     * [`build database`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/build_db.py) : create database or create new tables.
     * [`insert data`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/insert.py) : insert new data to your established database
-    * [`db config`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/python_mysql_dbconfig.py) : configurate your database in config.ini and use the simpler and reuseable way to log in.
+    * [`db config`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/python_mysql_dbconfig.py) : configurate your database in [`config.ini`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/config.ini) and use the simpler and reuseable way to log in.
     * [`fetch with one`](https://github.com/cxxixi/PyMySQL_tutorial/blob/master/query_with_fetchone.py) : fetch items from your database
     
     
