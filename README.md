@@ -14,9 +14,9 @@ This tutorial introduce severval basic but fundamental operations of MySQL in Py
 * **Get your MySQL libaray installed in Python**  
     Simply use `pip install MySQL` to install MySQL
     
-* **Configuration**
-    After installing the MySQL, you register your own account.  
-    (Optional,but recoommended)Initiate a configuration file name 
+* **Configuration**  
+    - After installing the MySQL, you register your own account.  
+    -(Optional,but recoommended)Initiate a configuration file name 
     
     
     
